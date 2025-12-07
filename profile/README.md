@@ -1,5 +1,4 @@
-# 🌐 EggMind  
-### Intelligent Engine for Scalable Equality-Saturating Optimization
+# 🌐 EggMind
 
 EggMind explores the next generation of **equality-saturation (EqSat)** optimization by combining classic e-graphs with modern intelligent agents.
 
@@ -21,11 +20,4 @@ While EqSat can theoretically explore the full design space, practical scalabili
 
 EggMind aims to develop an **LLM-powered optimization agent** that makes these decisions intelligently, improving scalability without sacrificing optimality.
 
-## 🔬 Techniques & Directions
-- Online adaptive control of EqSat search
-- LLM-guided pruning and analysis  
-- Strategy learning and automated strategy synthesis  
 
----
-
-💡 *EggMind: Towards intelligent, scalable EqSat optimization.*  
